@@ -1,6 +1,5 @@
 # Craftial
-
-> Craftial is an online marketplace that specializes in handmade creations.
+Craftial is an online marketplace that specializes in handmade creations.
 
 ## Table of Contents
 
@@ -26,7 +25,7 @@
 
 ## Getting started
 
-`git clone https://github.com/SyntaxBreaker/Craftial.git`
+`git clone git@github.com:SyntaxBreaker/craftial.git`
 
 `npm install`
 
