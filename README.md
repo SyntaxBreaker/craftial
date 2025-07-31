@@ -33,6 +33,5 @@ Craftial is an online marketplace that specializes in handmade creations.
 
 `npm run dev.`
 
-## Contact
-
-Created by [@SyntaxBreaker](https://github.com/SyntaxBreaker)
+## Author
+- **[SyntaxBreaker]**: [[GitHub](https://www.github.com/SyntaxBreaker)] [[Website](https://syntaxbreaker.netlify.app)]
